@@ -1,0 +1,10 @@
+/*font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;*/
+
+body {
+  background: red;
+}
+h1 {
+  font-family: "Playfair Display", serif;
+  color: white;
+}
