@@ -35,6 +35,10 @@ p {
   line-height: 30px;
 }
 
+img {
+  vertical-align: middle;
+}
+
 .hero {
   background: var(--secondary-color);
   text-align: center;
