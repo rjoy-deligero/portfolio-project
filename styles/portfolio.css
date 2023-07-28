@@ -7,6 +7,7 @@
 
 body {
   font-family: var(--default-font-family);
+  margin-bottom: 30px;
 }
 
 h1,
@@ -116,6 +117,8 @@ img {
   .about-section {
     text-align: center;
     padding: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
 
   .project-desciption {
