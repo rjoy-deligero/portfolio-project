@@ -111,6 +111,14 @@ img {
   padding: 60px 30px;
 }
 
+.active {
+  color: var(--branding-color) !important;
+}
+
+.nav-link:hover {
+  color: var(--branding-color) !important;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
